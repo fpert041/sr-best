@@ -8,7 +8,7 @@ Copyright © 2019 Silicon Roundabout Ventures Ltd - All rights reserved.
 
 ### Initial Prototype Released: V 0.01 Alpha
 
-## Compilation and Code Settings
+## Project Description
 
 This Website will provide the Silicon Roundabout Community with a portal to join is, share projects and connect. Founders, developers, talent professionals and tech innovators of all kinds will be able to post and apply for tech jobs, pitch their tech startup products and partecipate at the Silicon Roundabout events.
 
